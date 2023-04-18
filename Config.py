@@ -1,0 +1,7 @@
+host='localhost'
+port='5432'
+dbname='museu'
+user='post_user'
+password='post_pass'
+sslmode='prefer'
+sslcompression='False'
